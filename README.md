@@ -1,4 +1,4 @@
-#This is a repo for my profile description#
+# This is a repo for my profile description
 
 I have a MEng in Electrical and Computers Engineering but for the past time I have really enjoyed areas like Software Development, DevOps and Data Engineering. 
 The repos you will find on my profile are dedicated to such areas and I will keep on creating more and more to develop my skill set.
